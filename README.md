@@ -47,4 +47,4 @@ This project involves building a machine learning model to predict house prices 
 For any further inquiries or improvements, feel free to reach out.
 
 ### Connect me:
-[Linkedin](https://www.linkedin.com/in/nirdesh-devadiya-55b408209)
+[Linkedin](https://www.linkedin.com/in/mya-md-yasinali?utm_source=share_via&utm_content=profile&utm_medium=member_android)
